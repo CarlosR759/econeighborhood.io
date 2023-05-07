@@ -1,13 +1,26 @@
 ---
-title: Home
+title: Eco Neighborhood
+redirect: /content/
 ---
 
-ECO NEIGHBORHOOD 
+Hola ! Esta es la pág. oficial de explicación del proyecto Eco Neighborhood. Hemos creado este sitio para que pueda explicarse internamente como funciona Eco Neighborhood mejor. Este sitio Busca tener registro de los siguientes aspectos:
 
 
-Hola Evelyn, voy a dejar esta página muy simple en hugo por el momento andando en .io. Fue tortuoso comprender como funcionar pero ya le estoy tomando el rítmo. Durante mis tiempos libres voy a ir mejorando esta página web para que sea vea mejor. Hay que aprender algunas cosas para llegar a esto simple, pero creo que el resto ya no va costar tanto. Podría seguir pero tengo que atender otras asignaturas, ya se me pasó el tiempo de entretenerme aprendiendo hugo, pero voy a seguir en mis ratos libres. La idea es ir mejorando esta página de a poco, se le puede poner bootstrat y esas cosas tambien. De hecho el css fue hecho a traves de sass, se encuentra en la carpeta content del repositorio. 
+1) Entregar información sobre las herramientas que se usan para construir Eco Neighborhood. Esto incluye todos los paquetes de npm que utiliza, conjunto a su instalación por vía de comandos.
 
 
-La idea es usar esta página para hacer explicaciones detalladas del proyecto, guardar diagramas y explicarlos por ejemplo. Tambien tener un registro de qué cosas estamos usando con los framework. Si nos da el tiempo podemos víncular los artículos de la wiki desde nuestra página de hugo. Que tengas buena tarde!
+2) Frameworks que utiliza Eco Neighborhood.
 
-Extensiones de node JS actualmente usandose: 
+
+3) Diagramas. Muchas veces en los documentos pdf los diagramas no suelen verse tan bien. En esta página se encuentran en buena resolución para poder comprenderse utilizando el zoom del navegador web.
+
+
+Puedes revisar esto en los siguientes links: 
+
+[Stack de herramientas](./stackdeherramientas)
+
+
+[FrameWorks](./frameworks)
+
+
+[Diagramas](./diagramas)
